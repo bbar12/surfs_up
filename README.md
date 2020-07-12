@@ -23,4 +23,10 @@ We see a similar trend of temperature data ranging among the temperature trends 
 
 ![](DecemberDatadescribe.PNG)
 
-Comparing the 
+Comparing the describe() results in both months we see a couple of 
+
+Refining analysis:
+  Ensure complete elimination of NaN points in the data. Should not be accounted for but the results do not examine the effect of backfilling this information. 
+  Performing an analysis that takes into account the elevations and how the weather fares in specific sites to determine best location. This would be an analysis focused on the station data available and the ability to recommend a location within the island based on weather trends per station. 
+  
+  
