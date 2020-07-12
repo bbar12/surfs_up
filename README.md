@@ -2,11 +2,11 @@
 
 ###Challenge 
 
-![]JuneDataPlot.png
+![JuneDataPlot.png]
 
-![]JuneDatadescribe.png
+![JuneDatadescribe.png]
 
-![]DecemberDataPlot.png
+![DecemberDataPlot.png]
 
-![]DecemberDatadescribe.png
+![DecemberDatadescribe.png]
 
